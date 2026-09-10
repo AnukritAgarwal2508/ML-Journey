@@ -1,0 +1,175 @@
+member_id,name,age,plan,gym,join_date,monthly_fee,visits_last_month,active,cancel_date
+M619,Ben Blake,49,premium,PARRAMATTA,2022-01-21,$89.00,7,No,2023-03-20
+M517,Olive Costa,31,PREMIUM,PARRAMATTA,05-Nov-2024,$89.00,--,No,2026-05-10
+M656,Dev Barnes,35,STANDARD,bondi,06-Aug-2024,$59.00,11,Yes,
+M521,Ryan Nguyen,36,standard,parramatta,2025-05-02,$59.00,21,Yes,
+M556,Aisha Ford,43,basic,Parramatta,2022-05-16,$39.00,0,Yes,
+M543,Ryan OBrien,25,PREMIUM,bondi,04-Nov-2022,$89.00,9,Yes,
+M608,Mia Mehta,31,basic ,parramatta,2023-09-09,$39.00,9,Yes,
+M553,Ella Ford,38,Std,parramatta,2023-06-26,$59.00,12,Yes,
+M630,Chloe OBrien,31,standard,Parramatta,2024-06-27,$59.00,14,no,
+M620,Chloe Shah,21,?,bondi,2024-01-30,$59.00,2,yes,2024-08-07
+M546,Ella Nguyen,33,Std,newtown,2025-01-21,$59.00,7,Yes,
+M649,Tom Walsh,27,basic ,newtown,2022-11-08,,14,No,2023-02-20
+M627,Pia Ford,24,premium,CHATSWOOD,?,$89.00,5,Y,
+M526,Kavya Shah,29,basic ,Newtown,2022-07-23,$39.00,9,Yes,
+M539,Leo Ford,?,STANDARD,newtown,2022-07-01,$59.00,18,No,2023-07-17
+M595,Olive Mehta,31,standard,BONDI,2023-09-17,$59.00,7,No,2024-06-06
+M563,Dev Reid,25,standard,newtown,2024-02-08,$59.00,18,Yes,
+M540,Olive Costa,18,standard,Newtown,2023-12-21,$59.00,17,FALSE,
+M636,Ella Reid,22,basic,Chatswood,2023-10-14,$39.00,7,Yes,
+M528,Ben Ford,19,standard,newtown,2024-05-30,$59.00,2,TRUE,
+M626,Grace Reid,19,basic,chatswood,11-Jun-2022,$39.00,5,Y,
+M554,Finn Reid,44,standard,Chatswood,2022-12-06,$59.00,--,No,2023-10-02
+M521,Ryan Nguyen,36,standard,parramatta,2025-05-02,,--,Yes,
+M525,Ella Walsh,30,Premium,Bondi,2023-03-05,$89.00,7,No,2024-09-26
+M551,Ryan Reid,47,standard,BONDI,2022-09-06,$59.00,9,Yes,
+M542,Chloe Ford,31,BASIC,Chatswood,2023-08-05,$39.00,5,yes,
+M577,Ryan Barnes,41,Standard,bondi,2022-01-28,$59.00,12,Yes,
+M623,Ben Walsh,49,basic,newtown,2024-08-12,$39.00,14,Yes,
+M604,Grace Shah,37,basic,Chatswood,2025-06-15,$39.00,7,No,2026-01-27
+M523,Finn Walsh,25,basic,chatswood,2023-04-08,$39.00,15,Yes,
+M571,Olive Nguyen,25,Premium,newtown,2023-05-10,$89.00,11,Yes,
+M501,Quinn Walsh,34,Standard,newtown,2025-06-27,$59.00,9,Yes,
+M622,Ben Walsh,35,standard,chatswood,03/05/2024,,-5,TRUE,
+M652,Grace Shah,24,standard,Newtown,11/08/2022,$59.00,8,Yes,
+M538,Iris Mehta,26,STANDARD,parramatta,2024-01-14,$59.00,7,Yes,
+M550,Nikhil Nguyen,38,premium,parramatta,04-Dec-2023,$89.00,11,No,2024-06-11
+M588,Leo Walsh,21,?,parramatta,04/06/2023,$39.00,6,FALSE,
+M657,Jack Shah,27,Std,chatswood,?,,--,yes,
+M583,Tom Barnes,55,standard,newtown,22/12/2022,$59.00,15,Yes,
+M650,Nikhil Walsh,37,basic,bondi,2025-05-14,$39.00,13,no,
+M561,Jack Mehta,36,STANDARD,chatswood,2025-02-20,$59.00,3,Yes,
+M634,Leo Nguyen,19,basic,chatswood,2023-11-21,$39.00,10,Yes,
+M557,Tom Blake,27,basic,parramatta,19-Oct-2023,$39.00,6,Yes,
+M579,Aisha Costa,29,premium,chatswood,08-Sep-2024,$89.00,17,No,2025-04-11
+M548,Tom Nguyen,34,?,newtown ,2024-08-16,$89.00,6,no,
+M562,Jack Mehta,32,standard,newtown ,17/02/2024,$59.00,5,Y,
+M512,Leo OBrien,?,standard,PARRAMATTA,02-Jan-2022,$59.00,3,Yes,
+M628,Ella Walsh,30,STANDARD,chatswood,2025-07-22,$59.00,13,no,2027-04-18
+M566,Iris Barnes,26,premium,parramatta,2025-07-11,$89.00,7,Yes,
+M587,Tom Mehta,20,standard,parramatta,2024-09-13,,7,FALSE,2024-12-20
+M592,Finn Barnes,36,premium,bondi,2025-01-14,$89.00,2,FALSE,
+M519,Ben Ford,37,BASIC,newtown,03/01/2025,$39.00,3,TRUE,
+M639,Finn Barnes,34,standard,chatswood,2024-10-26,$59.00,5,N,
+M596,Aisha Blake,28,PREMIUM,chatswood,03/04/2022,$89.00,10,Yes,
+M588,Leo Walsh,21,?,parramatta,04/06/2023,$39.00,6,FALSE,
+M611,Aisha Mehta,21,standard,newtown,2025-07-23,$59.00,4,Yes,
+M506,Olive Barnes,20,basic,bondi,02-Jan-2025,$39.00,5,No,2026-05-01
+M638,Mia Blake,27,basic,parramatta,2023-04-12,,11,Yes,
+M515,Nikhil Costa,37,STANDARD,bondi,2024-06-27,$59.00,0,no,
+M601,Leo OBrien,41,premium,chatswood,2022-10-27,$89.00,0,No,2023-02-07
+M510,Finn Barnes,22,standard,bondi,2022-10-23,$59.00,--,Yes,
+M593,Chloe Reid,24,premium,bondi,25-Jan-2022,,--,TRUE,
+M584,Grace Walsh,42,Prem,bondi,2024-09-14,$89.00,8,Yes,
+M651,Sara Shah,21,standard,PARRAMATTA,07-May-2023,$59.00,16,yes,
+M536,Iris OBrien,27,standard,NEWTOWN,16/01/2022,$59.00,6,Yes,
+M504,Grace Ford,19,standard,newtown,2023-01-02,$59.00,17,FALSE,2023-12-06
+M574,Olive Nguyen,999,STANDARD,bondi,10/08/2024,$59.00,2,Yes,
+M615,Finn Mehta,40,standard,PARRAMATTA,2022-07-25,$59.00,--,Yes,
+M593,Chloe Reid,24,premium,bondi,25-Jan-2022,$89.00,12,TRUE,
+M581,Hugo Reid,?,premium,BONDI,2022-06-27,,4,Yes,
+M635,Mia Blake,30,Basic,PARRAMATTA,2025-07-08,$39.00,5,N,
+M602,Leo Blake,41,basic ,newtown ,2024-12-13,$39.00,12,Yes,
+M633,Pia Shah,27,Basic,newtown,2023-05-09,$39.00,6,No,2024-10-21
+M572,Nikhil Reid,40,Premium,Chatswood,2023-10-15,$89.00,10,No,2024-09-05
+M549,Leo Walsh,31,Standard,Chatswood,2024-08-12,$59.00,10,No,2024-11-05
+M520,Tom Costa,28,basic,Parramatta,2022-10-01,$39.00,16,Yes,
+M535,Leo Blake,19,premium,parramatta,24/02/2023,$89.00,7,No,2025-01-16
+M570,Sara Barnes,55,basic ,BONDI,2022-08-01,$39.00,4,Y,
+M654,Hugo Walsh,45,Prem,Chatswood,2022-04-28,$89.00,7,yes,
+M560,Finn Reid,32,premium,parramatta,13-Sep-2023,$89.00,14,Y,
+M569,Quinn Walsh,?,Std,PARRAMATTA,26/02/2023,$59.00,4,Yes,
+M552,Quinn Costa,37,premium,Parramatta,2024-02-21,$89.00,-5,No,2025-08-04
+M522,Chloe Barnes,36,Prem,parramatta,2025-05-12,,13,No,2026-09-21
+M597,Ella Ford,33,Prem,Newtown,29/04/2023,$89.00,13,Yes,
+M575,Nikhil Reid,?,standard,chatswood,?,$59.00,6,Y,2025-10-03
+M537,Aisha Mehta,26,Prem,PARRAMATTA,?,$89.00,5,Yes,
+M598,Chloe Mehta,42,basic,newtown,21-Aug-2024,$39.00,13,Yes,
+M515,Nikhil Costa,37,STANDARD,bondi,2024-06-27,,--,no,
+M564,Ella Ford,39,basic ,chatswood,10-Mar-2024,$39.00,4,yes,
+M648,Ben Barnes,23,Premium,chatswood,2023-12-18,$89.00,7,No,2024-04-12
+M657,Jack Shah,27,Std,chatswood,?,$59.00,12,yes,
+M617,Ben Reid,25,Standard,parramatta,09-Jan-2022,$59.00,-5,N,
+M645,Tom Barnes,38,premium,newtown,2025-04-29,$89.00,11,Yes,
+M582,Ella OBrien,31,premium,Chatswood,2024-10-13,$89.00,8,Yes,
+M615,Finn Mehta,40,standard,PARRAMATTA,2022-07-25,$59.00,--,Yes,
+M631,Ryan Nguyen,41,Standard,newtown ,2023-06-26,$59.00,12,Yes,
+M614,Chloe Reid,37,Std,parramatta,23/04/2024,$59.00,1,Yes,
+M607,Grace Barnes,20,Prem,newtown,2023-04-01,$89.00,8,Yes,
+M595,Olive Mehta,31,standard,BONDI,2023-09-17,$59.00,7,No,2024-06-06
+M576,Ella Barnes,18,STANDARD,chatswood,26/12/2023,$59.00,9,yes,2024-06-15
+M532,Pia Costa,20,BASIC,bondi,2023-09-16,$39.00,--,Yes,
+M537,Aisha Mehta,26,Prem,PARRAMATTA,?,$89.00,5,Yes,
+M513,Pia Barnes,27,BASIC,parramatta,19/01/2023,$39.00,2,yes,2024-08-16
+M524,Tom Costa,999,Std,Chatswood,2024-04-13,$59.00,9,Yes,
+M559,Pia OBrien,28,standard,chatswood,28-Sep-2023,$59.00,4,Yes,
+M545,Finn Walsh,34,standard,newtown,2023-03-25,$59.00,2,Yes,
+M534,Leo Reid,43,?,bondi,2023-07-01,$89.00,6,yes,
+M647,Hugo Mehta,39,PREMIUM,chatswood,2024-01-04,$89.00,7,Yes,
+M616,Olive Barnes,41,Basic,NEWTOWN,2024-11-19,,5,Yes,
+M547,Ryan Walsh,21,?,chatswood,06/06/2025,$59.00,8,N,
+M653,Quinn Costa,24,basic,PARRAMATTA,2023-02-05,$39.00,--,Yes,
+M509,Grace Ford,?,Std,BONDI,2023-03-20,$59.00,7,Yes,
+M640,Jack Walsh,25,basic,bondi,2024-10-08,$39.00,8,Yes,
+M590,Ryan Shah,28,standard,Parramatta,2024-10-01,$59.00,8,Yes,
+M514,Aisha Costa,33,standard,bondi,2023-01-01,$59.00,14,FALSE,
+M594,Dev Blake,31,PREMIUM,chatswood,2023-11-03,$89.00,0,Yes,
+M516,Finn Reid,?,basic,bondi,2022-07-09,$39.00,9,Yes,
+M536,Iris OBrien,27,standard,NEWTOWN,16/01/2022,$59.00,6,Yes,
+M585,Chloe OBrien,41,?,BONDI,2022-02-10,$39.00,9,TRUE,
+M589,Quinn OBrien,37,Prem,Newtown,2022-03-23,$89.00,11,Yes,
+M533,Quinn Blake,30,PREMIUM,parramatta,2024-10-26,$89.00,--,Yes,
+M529,Tom Barnes,39,PREMIUM,chatswood,13/07/2025,$89.00,7,No,2026-04-29
+M641,Ben Barnes,30,standard,chatswood,2023-03-30,$59.00,0,TRUE,2024-12-20
+M578,Hugo OBrien,38,basic,bondi,07/10/2022,$39.00,5,Y,
+M591,Ella Shah,42,standard,CHATSWOOD,2025-04-09,$59.00,10,Yes,
+M503,Mia Blake,45,basic ,Newtown,05-Mar-2022,$39.00,10,Yes,
+M555,Ella Reid,999,Basic,PARRAMATTA,22/01/2022,$39.00,3,No,2023-09-01
+M659,Aisha Nguyen,32,Premium,Newtown,2024-10-11,$89.00,8,No,2026-04-27
+M624,Mia Shah,35,Prem,NEWTOWN,2023-12-29,$89.00,17,Yes,
+M567,Tom Mehta,36,Premium,Bondi,2023-05-31,$89.00,7,Yes,
+M511,Tom Reid,19,basic,parramatta,2024-09-29,$39.00,8,Yes,
+M609,Finn OBrien,18,premium,newtown,29/10/2022,$89.00,7,N,
+M608,Mia Mehta,31,basic ,parramatta,2023-09-09,$39.00,9,Yes,
+M600,Tom Costa,28,standard,Chatswood,2023-05-18,$59.00,11,no,
+M648,Ben Barnes,23,Premium,chatswood,2023-12-18,$89.00,7,No,2024-04-12
+M518,Iris Mehta,28,basic,parramatta,19-Jan-2022,,13,No,2023-09-10
+M642,Tom Walsh,34,basic ,chatswood,24/08/2024,$39.00,10,yes,
+M538,Iris Mehta,26,STANDARD,parramatta,2024-01-14,$59.00,7,Yes,
+M568,Ella OBrien,30,standard,PARRAMATTA,06-Dec-2022,$59.00,18,Yes,
+M502,Finn Nguyen,26,standard,chatswood,2022-03-12,$59.00,5,No,2022-05-11
+M531,Ella Nguyen,21,standard,newtown,2024-04-19,$59.00,12,N,
+M513,Pia Barnes,27,BASIC,parramatta,19/01/2023,$39.00,2,yes,2024-08-16
+M605,Pia Costa,32,basic,chatswood,2025-03-31,$39.00,13,Yes,
+M610,Ben Costa,28,Standard,parramatta,2024-11-28,$59.00,9,FALSE,2025-06-09
+M632,Nikhil Reid,18,premium,newtown,31-Jan-2024,$89.00,--,no,
+M500,Tom OBrien,23,premium,Parramatta,2022-01-30,$89.00,7,No,2023-08-30
+M558,Sara Ford,45,STANDARD,chatswood,2024-08-08,$59.00,7,No,2024-11-08
+M505,Mia Barnes,32,basic,newtown,02/11/2024,$39.00,8,no,
+M553,Ella Ford,38,Std,parramatta,2023-06-26,,--,Yes,
+M603,Mia Nguyen,19,basic,bondi,2023-10-15,$39.00,17,FALSE,
+M629,Hugo Blake,19,basic,NEWTOWN,2022-07-27,$39.00,18,Yes,
+M541,Finn Shah,34,Std,chatswood,?,$59.00,13,Yes,
+M606,Tom Ford,29,STANDARD,chatswood,2023-10-12,$59.00,7,FALSE,
+M637,Aisha Walsh,27,Premium,chatswood,2023-12-30,$89.00,8,Yes,
+M621,Ben Shah,24,premium,bondi,2023-04-22,$89.00,2,Yes,
+M646,Nikhil Ford,?,basic ,PARRAMATTA,2024-12-03,$39.00,10,FALSE,
+M625,Kavya Nguyen,35,basic,newtown,2024-05-16,$39.00,9,Yes,
+M586,Tom Barnes,38,basic,chatswood,02-May-2023,$39.00,0,Yes,
+M530,Kavya Mehta,20,standard,parramatta,15-Jul-2024,$59.00,11,TRUE,
+M565,Iris Shah,39,Standard,bondi,16/03/2022,$59.00,0,Yes,
+M544,Sara Mehta,40,premium,Newtown,2025-04-21,$89.00,7,Yes,
+M527,Nikhil Nguyen,?,basic,CHATSWOOD,03/11/2024,$39.00,13,Yes,
+M580,Mia Mehta,38,basic ,Bondi,2023-09-25,$39.00,14,No,2024-01-28
+M613,Finn Walsh,23,basic,bondi,?,$39.00,9,Y,
+M643,Grace Costa,43,standard,bondi,11/05/2024,$59.00,10,Y,
+M507,Aisha Shah,24,basic,newtown,2022-03-21,$39.00,--,No,2023-01-06
+M658,Ryan Reid,39,basic,newtown ,2022-07-13,$39.00,13,yes,
+M612,Kavya OBrien,?,?,newtown,2024-04-07,$59.00,4,TRUE,
+M655,Ella Barnes,18,BASIC,Chatswood,2024-03-16,$39.00,13,Yes,
+M508,Jack Costa,25,basic,newtown,17/02/2025,$39.00,11,yes,
+M573,Mia Mehta,35,standard,newtown ,2023-09-27,$59.00,10,No,2024-03-31
+M644,Tom Barnes,31,premium,bondi,2025-03-30,$89.00,1,TRUE,
+M618,Ben Mehta,39,Premium,chatswood,2023-01-19,$89.00,13,Yes,
+M599,Mia Costa,?,basic,PARRAMATTA,04-Oct-2024,$39.00,11,yes,
