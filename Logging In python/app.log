@@ -1,0 +1,10 @@
+2026 - 09 - 15 15 : 29 : 53 - root - DEBUG - This is a debug message
+2026 - 09 - 15 15 : 29 : 53 - root - INFO - This is a info message
+2026 - 09 - 15 15 : 29 : 53 - root - WARNING - This is a warning message
+2026 - 09 - 15 15 : 29 : 53 - root - ERROR - This is a error message
+2026 - 09 - 15 15 : 29 : 53 - root - CRITICAL - This is a critical messsage
+2026 - 09 - 15 15 : 30 : 01 - root - DEBUG - This is a debug message
+2026 - 09 - 15 15 : 30 : 01 - root - INFO - This is a info message
+2026 - 09 - 15 15 : 30 : 01 - root - WARNING - This is a warning message
+2026 - 09 - 15 15 : 30 : 01 - root - ERROR - This is a error message
+2026 - 09 - 15 15 : 30 : 01 - root - CRITICAL - This is a critical messsage

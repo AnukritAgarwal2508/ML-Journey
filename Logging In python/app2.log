@@ -1,0 +1,8 @@
+2026 - 09 - 15 15 : 51 : 47 - Arithmetic app - DEBUG - Adding 10 + 15 = 25 
+2026 - 09 - 15 15 : 51 : 47 - Arithmetic app - DEBUG - Subtracting 15 - 10 = 5 
+2026 - 09 - 15 15 : 51 : 47 - Arithmetic app - DEBUG - Multiplying 10 * 20 = 200 
+2026 - 09 - 15 15 : 51 : 47 - Arithmetic app - DEBUG - Dividing 14 / 7 = 2.0 
+2026 - 09 - 15 15 : 52 : 16 - Arithmetic app - DEBUG - Adding 10 + 15 = 25 
+2026 - 09 - 15 15 : 52 : 16 - Arithmetic app - DEBUG - Subtracting 15 - 10 = 5 
+2026 - 09 - 15 15 : 52 : 16 - Arithmetic app - DEBUG - Multiplying 10 * 20 = 200 
+2026 - 09 - 15 15 : 52 : 16 - Arithmetic app - ERROR - Division by zero error
